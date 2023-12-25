@@ -96,3 +96,15 @@ It would be great for example if you'd write some unit test / simple frontend de
 When you have finished the assignment, zip your repo (make sure to include .git folder) and send us the zip.
 
 Thank you and good luck! 🙏
+
+<!-- Georgi Vasilev:
+
+Hello, 
+* I have to confess, that I spent more than 3 hours on the task. 
+* To be honest, I didn't measure the time so strictly, because past 3-4 years (proffesionally) I'm using Java/Spring and my touch to the JS/TS world is in Angular. Spent more time because it was true fun :D.
+* Also past 5 years I worked mainly with non-SQL databases (MongoDB). So it took me more time to grab the idea. 
+* Of course there are a lot of stuff that can be refactored, that can be done in a better way, but I tried to make some kind of time frime... 
+* I hope we will have the opportunity to elaborate over the code and make a PR/CR with some of you.
+* I just want to say thank you for the opportunity and can't wait to see you on the tech interview ;) :D  
+
+-->
